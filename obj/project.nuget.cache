@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "esiDP6QauShf+ty4w+a3FWlx7y3C6AYAitaM/58stqj0T/u7zoEKTmOOfa4pnk7kjvoAvYZ9/eaNuZ8TpCN2CQ==",
+  "success": true,
+  "projectFilePath": "D:\\check\\check\\check.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\myace\\.nuget\\packages\\octokit\\9.1.0\\octokit.9.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
